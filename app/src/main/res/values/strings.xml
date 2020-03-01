@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Words</string>
+    <string name="btn_delete">delete</string>
+    <string name="btn_clear">clear</string>
+    <string name="btn_update">update</string>
+    <string name="btn_insert">insert</string>
+    <string name="rv_card" translatable="false">CardView</string>
+    <string name="rv_item_iv_info" translatable="false">Translate</string>
+    <string name="add_words">Add Words</string>
+    <string name="english_words">English Words</string>
+    <string name="chinese_meaning">Chinese Meaning</string>
+    <string name="submit">Submit</string>
+    <string name="label_words">Words</string>
+    <string name="label_add">Add</string>
+    <string name="clear_data">Clear Data</string>
+    <string name="switch_view_type">Switch View Type</string>
+    <string name="search">Search</string>
+
+</resources>
